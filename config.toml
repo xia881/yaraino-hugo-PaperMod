@@ -4,3 +4,7 @@ title = '睦朗'
 paginate = '5'
 theme = 'PaperMod'
 mainSections = ["posts"]
+
+# GitHub Pages で公開するために必要
+publishDir = "docs"
+canonifyurls = true
