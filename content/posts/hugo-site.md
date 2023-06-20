@@ -37,3 +37,10 @@ Installationページを読みながら。
 
 add submodule のやり方で何かミスったっぽい。
 上記サイトを参考に、解決。
+
+- https://gkzz.dev/posts/add-favicon-with-hugo-papermod/
+
+faviconが認識されない問題
+
+submodule -> themes/PaperMod is empty ?
+
