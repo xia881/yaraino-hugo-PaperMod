@@ -8,3 +8,8 @@ mainSections = ["posts"]
 # GitHub Pages で公開するために必要
 publishDir = "docs"
 canonifyurls = true
+
+params=[
+    assets:
+        [favicon: "/favicon.ico"]
+]
