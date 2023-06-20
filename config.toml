@@ -10,6 +10,6 @@ publishDir = "docs"
 canonifyurls = true
 
 params=[
-    assets:
-        [favicon: "/favicon.ico"]
+    assets=
+        [favicon= "/favicon.ico"]
 ]
