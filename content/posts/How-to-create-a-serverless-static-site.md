@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Serverless Static Site"
+title: "hugo + GitHub Pages を用いたサーバーレスな静的サイトの作り方"
 date: 2023-06-20T16:00:29+09:00
 # weight: 1
 # aliases: ["/first"]

@@ -1,11 +1,13 @@
 ---
-title: "Helped My Mother Choose a Computer"
+title: "定年退職後の母親に代わって中古windowsパソコンを購入のちリモートでコーチング"
 date: 2023-04-01
 tags: ["purchase review"]
+showToc: true
+TocOpen: false
 draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-description: "定年退職後の母親に代わって中古windowsパソコンを購入のちリモートでコーチング"
+# description: ""
 UseHugoToc: true
 ---
 

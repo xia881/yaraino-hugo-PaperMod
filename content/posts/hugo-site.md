@@ -2,6 +2,8 @@
 title: "Hugo Site"
 date: 2023-06-18T00:08:51+09:00
 draft: false
+showToc: true
+TocOpen: false
 ---
 
 ## 目標
