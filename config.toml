@@ -31,9 +31,14 @@ googleAnalytics = "G-GSZSPTKC12"
 # toml config document page is 
 # https://gohugo.io/getting-started/configuration/
 
-[menu]
-  [main]
-  name="tags"
-  name="タグ"
-    url="tags"
-    weight="10"
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
