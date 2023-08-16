@@ -21,7 +21,7 @@ googleAnalytics = "G-GSZSPTKC12"
 
   # Provide your metadata here.
   name = "isiwari"
-  # description = "global scale open source software for planning urban futures for active transport"
+  # description = "技術メモです。"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -30,3 +30,10 @@ googleAnalytics = "G-GSZSPTKC12"
 
 # toml config document page is 
 # https://gohugo.io/getting-started/configuration/
+
+menu:
+  main:
+  - name: tags
+  - name: タグ
+    url: tags
+    weight: 10
