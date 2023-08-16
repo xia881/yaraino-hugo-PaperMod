@@ -1,9 +1,14 @@
 ---
-title: "Hugo Site"
+title: "Hugoを用いたサイトの作り方"
 date: 2023-06-18T00:08:51+09:00
-draft: false
+tags: ["Hugo"]
 showToc: true
 TocOpen: false
+draft: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+UseHugoToc: true
+# description: ""
 ---
 
 ## 目標
