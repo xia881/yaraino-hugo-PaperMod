@@ -1,6 +1,6 @@
 baseURL = 'https://tech.isiwari.com/'
 languageCode = 'ja-ja'
-title = '睦朗'
+title = 'あっこれ良い字だな 睦朗'
 paginate = '5'
 theme = 'PaperMod'
 mainSections = ["posts"]

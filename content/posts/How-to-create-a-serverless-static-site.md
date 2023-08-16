@@ -11,19 +11,19 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "記事の新規追加が劇的に楽になりました"
 # canonicalURL: "https://canonical.url/to/page"
 # disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+# ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+# ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+# UseHugoToc: true
 
 # cover:
 #    image: "<image path/url>" # image path/url
