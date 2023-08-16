@@ -31,9 +31,9 @@ googleAnalytics = "G-GSZSPTKC12"
 # toml config document page is 
 # https://gohugo.io/getting-started/configuration/
 
-menu:
-  main:
-  - name: tags
-  - name: タグ
-    url: tags
-    weight: 10
+[menu]
+  [main]
+  name="tags"
+  name="タグ"
+    url="tags"
+    weight="10"
