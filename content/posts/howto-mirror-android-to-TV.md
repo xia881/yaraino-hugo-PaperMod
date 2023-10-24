@@ -2,7 +2,7 @@
 title: "AndroidスマホからFire TV Stickを通じて、何かしらテレビに投影したい"
 date: 2023-08-18
 tags: ["first"]
-showToc: true
+ishowToc: true
 TocOpen: false
 draft: false
 ShowBreadCrumbs: true
