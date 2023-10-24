@@ -1,6 +1,6 @@
-baseURL = 'https://techhh.isiwari.com/'
+baseURL = 'https://yarainokasumi.xia881.page/'
 languageCode = 'ja-ja'
-title = 'あっこれ良い字だな 睦朗'
+title = '夜来の霞'
 paginate = '5'
 theme = 'PaperMod'
 mainSections = ["posts"]
@@ -9,7 +9,7 @@ mainSections = ["posts"]
 publishDir = "docs"
 canonifyurls = true
 
-googleAnalytics = "G-GSZSPTKC12"
+googleAnalytics = "G-14JR9F1G6M"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
@@ -20,8 +20,8 @@ googleAnalytics = "G-GSZSPTKC12"
   # CSS class.
 
   # Provide your metadata here.
-  name = "isiwari"
-  # description = "技術メモです。"
+  name = "yarainokasumi"
+  # description = "ごく内輪向けの趣味サイトです"
 
   # Link custom assets relative to /static
   custom_css = []
