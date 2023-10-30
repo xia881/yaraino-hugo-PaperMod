@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+categories: 
 tags: ["first"]
 showToc: true
 TocOpen: false
