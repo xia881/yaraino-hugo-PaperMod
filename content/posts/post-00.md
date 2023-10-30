@@ -1,7 +1,7 @@
 ---
 title: "Post 00"
 date: 2023-10-30T09:16:54+09:00
-tags: ["23-10-30T09:16:54+09:00"]
+tags: ["information"]
 showToc: true
 TocOpen: false
 draft: false
