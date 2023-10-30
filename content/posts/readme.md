@@ -1,12 +1,12 @@
 ---
 title: "readme.txt"
 date: 2023-10-30
-tags: ["information"]
+categories: information
 # description: "text"
 cover:
     image: "banner.jpg" # image path/url
     alt: "banner-image" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "yarainokasumi" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
