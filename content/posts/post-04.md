@@ -2,7 +2,8 @@
 title: "知らなくて良い"
 date: 2016-12-18
 description: "原作桂高"
-tags: ["桂高", "原作"]
+categories: 桂高
+tags: ["原作"]
 showToc: true
 TocOpen: false
 draft: false

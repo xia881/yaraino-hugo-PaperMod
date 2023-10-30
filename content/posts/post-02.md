@@ -2,7 +2,8 @@
 title: "萌えない"
 date: 2016-12-18
 description: "大学生パラレル桂高"
-tags: ["桂高", "パラレル"]
+categories: 桂高
+tags: ["パラレル"]
 comments: false
 ishowToc: true
 TocOpen: false

@@ -1,7 +1,8 @@
 ---
 title: "おやすみ前のお約束"
 date: 2016-12-18
-tags: ["桂高", "パラレル"]
+categories: 桂高
+tags: ["パラレル"]
 showToc: true
 TocOpen: false
 draft: false
