@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&family=Zen+Old+Mincho:wght@600&display=swap');
-
 .dark {
     --theme: #05090e;
  }
@@ -14,6 +12,10 @@
 
 .logo{
     font-family: 'Zen Old Mincho', serif;
+}
+
+.entry-cover img{
+    border-radius: unset;
 }
 
 /* https://github.com/adityatelange/hugo-PaperMod/discussions/645 */
