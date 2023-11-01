@@ -10,7 +10,6 @@ draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-# description: "text"
 ---
 
 満員電車で扉の前にハマると意外と楽。快速とか急行とか、しばらく駅をすっ飛ばす系に乗るときは密かに狙うポジションだ。しかし今朝は後ろにヅラがハマっているせいで辛い。俺の背にヅラの腹が密着していて、しかもヅラのヅラは朝からテンションが高いようだ。  

@@ -3,14 +3,13 @@ title: "巣立ち前"
 date: 2017-07-26
 description: "原作桂高（過去捏造）"
 categories: 桂高
-tags: ["原作"]
+tags: ["原作", "過去捏造"]
 showToc: true
 TocOpen: false
 draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-# description: "text"
 ---
 
 飯も食わずに毎晩安い酒ばかり飲んで遊び歩いていたらとうとう血を吐いた。  

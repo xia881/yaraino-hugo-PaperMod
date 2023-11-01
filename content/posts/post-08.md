@@ -3,14 +3,13 @@ title: "青きも熟す"
 date: 2017-07-26
 description: "けものの明日3 --原作桂高パラレル未来"
 categories: 桂高
-tags: ["未来"]
+tags: ["原作", "パラレル未来"]
 showToc: true
 TocOpen: false
 draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-# description: "text"
 ---
 
 2人が出発した翌々日、親子も屋敷を留守にした。  

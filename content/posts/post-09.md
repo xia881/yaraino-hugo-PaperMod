@@ -2,7 +2,7 @@
 title: "定期報告 - milk"
 date: 2016-08-07
 description: "原作銀高 *R18"
-tags: ["原作", "***"]
+tags: ["原作", "R18"]
 categories: 銀高
 showToc: true
 TocOpen: false

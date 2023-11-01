@@ -2,7 +2,7 @@
 title: "春の日"
 date: 2016-12-18
 categories: 桂高
-tags: ["原作"]
+tags: ["原作", "パラレル未来"]
 description: "けものの明日1 --原作桂高パラレル未来"
 showToc: true
 TocOpen: false
@@ -10,7 +10,6 @@ draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-# description: "text"
 ---
 
 昨年の暮れ、塾生の中からひとり養子に取った。  

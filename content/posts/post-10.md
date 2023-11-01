@@ -3,7 +3,7 @@ title: "若いと色々"
 date: 2016-08-07
 description: "原作万高また＋桂*R18"
 categories: 桂高
-tags: ["万高", "万また", "高また", "原作", "3P"]
+tags: ["万高", "万また", "高また", "原作", "3P", "R18"]
 showToc: true
 TocOpen: false
 draft: false

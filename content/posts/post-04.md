@@ -10,7 +10,6 @@ draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-# description: "text"
 ---
 
 全く。お前は不規則で怠惰な生活態度をまだ続けているのか、早く寝ろ、髪がまだ濡れている、肩まで布団にきちんと入れ…。  

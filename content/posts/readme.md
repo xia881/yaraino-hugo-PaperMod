@@ -2,7 +2,6 @@
 title: "readme.txt"
 date: 2023-10-30
 categories: information
-# description: "text"
 cover:
     image: "banner.jpg" # image path/url
     alt: "banner-image" # alt text

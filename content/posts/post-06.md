@@ -3,14 +3,13 @@ title: "蜜もほろ苦"
 date: 2016-12-18
 description: "けものの明日2 --原作桂高パラレル未来"
 categories: 桂高
-tags: ["原作"]
+tags: ["原作", "パラレル未来"]
 showToc: true
 TocOpen: false
 draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-# description: "text"
 ---
 
 朝食後、桂が満面の笑みで冷蔵庫から取り出したのは水羊羹だった。  
