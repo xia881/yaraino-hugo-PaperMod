@@ -1,9 +1,9 @@
 ---
 title: "more"
 date: 2016-12-18
-description: "大学生パラレル桂高"
+description: "大学生パロディ桂高"
 categories: 桂高
-tags: ["パラレル"]
+tags: ["パロディ"]
 showToc: true
 TocOpen: false
 draft: false

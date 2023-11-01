@@ -2,14 +2,14 @@
 title: "おやすみ前のお約束"
 date: 2016-12-18
 categories: 桂高
-tags: ["パラレル"]
+tags: ["パロディ"]
 showToc: true
 TocOpen: false
 draft: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
-description: "大学生パラレル桂高"
+description: "大学生パロディ桂高"
 ---
 
 した後のヅラの落差が激しい。  
