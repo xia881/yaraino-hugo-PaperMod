@@ -3,7 +3,7 @@ title: "雨に願う"
 date: 2017-01-11
 description: "大学生パロディ銀高「サーズデイ」シリーズ*R18"
 categories: 銀高
-tags: ["パロディ", "R18"]
+tags: ["パロディ-サーズデイ", "R18"]
 showToc: true
 TocOpen: false
 draft: false
