@@ -3,7 +3,7 @@ title: "だから次の金曜に"
 date: 2016-10-17
 description: "会社員パロディ銀高*R18"
 categories: 銀高
-tags: ["パロディ", "R18"]
+tags: ["会社員パロディ", "R18"]
 showToc: true
 TocOpen: false
 draft: false
