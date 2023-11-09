@@ -3,7 +3,7 @@ title: "developer"
 date: 2016-08-22
 description: "高校教師×写真学生パロディ銀高【モノクロ・上】"
 categories: 銀高
-tags: ["パロディ"]
+tags: ["パロディ-モノクロ"]
 showToc: true
 TocOpen: false
 draft: false
