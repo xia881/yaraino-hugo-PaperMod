@@ -4,6 +4,9 @@ date: 2016-11-23
 description: "原作銀高 --いい兄さんの日2016"
 categories: 銀高
 tags: ["原作", "ほのぼの"]
+draft: false
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
 ---
 
 昨夜遅くに帰ってきた銀さんが泥だらけだったのはびっくりした。  
