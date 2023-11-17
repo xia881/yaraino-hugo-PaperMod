@@ -1,5 +1,5 @@
 ---
-title: "readme.txt"
+title: "readme"
 date: 2023-10-30
 categories: information
 cover:
