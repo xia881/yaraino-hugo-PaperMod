@@ -1,6 +1,6 @@
 ---
 title: "readme"
-date: 2023-10-30
+date: 2023-11-20
 categories: information
 cover:
     image: "banner.jpg" # image path/url
@@ -10,12 +10,19 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-## サイト再構築中
+## about
 
-コンテンツ移行作業中です…  
-2023年11月末に作業完了予定です
+個人ファンサイト。
 
-### 移行内容
+- 二次創作BL同人です。
+- 原作者や出版社などとは一切関係ありません。
+- 所謂オンラインブックマークはご遠慮ください。
+- 検索避け済みです。
+- 一部年齢制限を設けています。
+
+## サイト再構築完了
+
+2023年11月、コンテンツ移行作業終了しました
 
 - before: Gatsby Cloud
 - after: Hugo + GitHub Pages
